@@ -1,0 +1,21 @@
+body{
+    font_family:Arial,sans-serif;
+    background-color:#87cefa;
+    margin :0;
+    padding :0;
+    text-align:center;
+}
+
+h1{
+    color:black;
+    font_size: 50px;
+}
+
+li{
+    list-style-type: none;
+}
+
+.ashita{
+    color:blue;
+    font-size: 50px;
+}
