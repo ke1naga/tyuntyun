@@ -26,6 +26,9 @@ a{
     color:#e6e6fa;
 }
 
+a:visited{
+    color:#b0c4de;
+}
 
 li{
     list-style-type: none;
