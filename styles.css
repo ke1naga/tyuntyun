@@ -14,11 +14,16 @@ body{
 
 h1{
     color:black;
-    font_size: 50px;
+    font_size: 100px;
+}
+
+h2{
+    font_size:100px;
 }
 
 li{
     list-style-type: none;
+    color:#D3D3D3;
 }
 
 .ashita{
