@@ -1,9 +1,4 @@
 
-@media(max-width:670px){
-    width:500px;
-}
-
-
     
 body{
     font-family:sans-serif;
@@ -15,16 +10,17 @@ body{
 
 h1{
     color:black;
-    font-size: 100px;
+    font-size: 50px;
 }
 
 h2{
-    font-size:100px;
+    font-size:40px;
 }
 
 a{
     text-decoration:none;
     color:#e6e6fa;
+    font-size:30px;
 }
 
 a:visited{
@@ -40,6 +36,7 @@ li{
 
 .list{
     width:20%;
+    margin:auto;
 }
 
 .ashita{
@@ -48,15 +45,19 @@ li{
 }
 
 .return{
-    margin:100px;
+    margin:auto;
     padding:100px;
     display:block;
+    width:80px;
+    height:40px;
     background-color: darkolivegreen;
-    border-radius: 50%;
+    border-radius: 20px;
 }
 
 .potechi{
     color:#ffff00;
-    font-size:500px;
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
     font-weight:bold ;
+    letter-spacing: 10px;
 }
